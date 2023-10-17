@@ -1,3 +1,7 @@
+# Results
+<img width="1136" alt="zoo" src="https://github.com/Mrkomiljon/LLaVA-Windows/assets/92161283/2fd9c519-e145-49f3-a197-84677a6605f6">
+<img width="1135" alt="street" src="https://github.com/Mrkomiljon/LLaVA-Windows/assets/92161283/46eb70f5-67c5-43fe-b8bf-057ef9475a89">
+
 # 🌋 LLaVA: Large Language and Vision Assistant
 
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
